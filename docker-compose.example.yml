@@ -1,0 +1,10 @@
+version: "3.4"
+services:
+  whisker-private-api:
+    restart: always
+    image: ghcr.io/milanmdev/whisker-private-api
+    environment:
+      - USER_ID=
+      - API_KEY=""
+    ports:
+      - 8080:8080
