@@ -1,4 +1,5 @@
 # whisker-private-api
+### NOTICE: I no longer have access to a Whisker/Ting device, so I can't continue development of this project.
 
 An API to expose a Ting sensor's information for use Home Assistant
 
